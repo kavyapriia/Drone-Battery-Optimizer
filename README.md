@@ -1,1 +1,2 @@
 # Drone-Battery-Optimizer
+Drone Battery Life Optimizer is a smart system designed to maximize the flight time of drones by intelligently managing power consumption. It uses real-time battery monitoring, adaptive algorithms, and route optimization techniques to enhance energy efficiency. Ideal for applications like surveillance, agriculture, delivery, and rescue operations. This project integrates machine learning and embedded systems for effective onboard battery management.
